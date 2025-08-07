@@ -51,10 +51,6 @@
     "discordID": "939891609804353616",
     "discordTag": "normal_catlol#0"
   },
-  "v_ty7": {
-    "discordID": "1218972951177859072",
-    "discordTag": "ms.maqu#0"
-  },
   "rllyandrw": {
     "discordID": "718541569355022476",
     "discordTag": "sso_coool#0"
@@ -66,5 +62,9 @@
   "ScriptHaven4": {
     "discordID": "822075749304500305",
     "discordTag": "nikonthefirst#0"
+  },
+  "v_ty7": {
+    "discordID": "1218972951177859072",
+    "discordTag": "ms.maqu#0"
   }
 }
