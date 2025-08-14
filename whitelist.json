@@ -51,10 +51,6 @@
     "discordID": "1325124359156797456",
     "discordTag": "justaeditorandaavgeek#0"
   },
-  "v_ty7": {
-    "discordID": "1218972951177859072",
-    "discordTag": "ms.maqu#0"
-  },
   "ScriptHaven2": {
     "discordID": "822075749304500305",
     "discordTag": "nikonthefirst#0"
@@ -66,5 +62,9 @@
   "acount_new12": {
     "discordID": "948893209310933024",
     "discordTag": "eezinbus#0"
+  },
+  "code": {
+    "discordID": "1218972951177859072",
+    "discordTag": "ms.maqu#0"
   }
 }
